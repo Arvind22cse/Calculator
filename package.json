@@ -30,5 +30,7 @@
   "main": "eslint.config.js",
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "homepage": "https://arvind22cse.github.io/Calculator/"
+
 }
